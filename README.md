@@ -30,18 +30,18 @@ The function accepts an event input and returns a JSON response.
 ## Sample Input
 
 {
-  "name": "Sabitha"
+  "name": "Varshitha"
 }
 
 ## Sample Output
 
 {
   "statusCode": 200,
-  "message": "Hello, Sabitha! Welcome to AWS Lambda Simulation.",
+  "message": "Hello, Varshitha! Welcome to AWS Lambda Simulation.",
   "service": "Serverless API",
   "success": true
 }
 
 ## Author
 
-Sabitha Reddy
+Varshitha Vari
